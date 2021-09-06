@@ -1,0 +1,81 @@
+[submodule "awesome-fonts"]
+	path = awesome-fonts
+	url = https://github.com/brabadu/awesome-fonts
+[submodule "Sans-Serif/open-huninn-font"]
+	path = Sans-Serif/jf open 粉圓
+	url = https://github.com/justfont/open-huninn-font
+[submodule "Sans-Serif/genyog-font"]
+	path = Sans-Serif/源樣黑體
+	url = https://github.com/ButTaiwan/genyog-font/
+[submodule "Sans-Serif/huayuan"]
+	path = Sans-Serif/樺源黑體
+	url = https://github.com/lapomme/huayuan
+[submodule "Sans-Serif/gensen-font"]
+	path = Sans-Serif/源泉圓體
+	url = https://github.com/ButTaiwan/gensen-font
+[submodule "Sans-Serif/MPLUS_FONTS"]
+	path = Sans-Serif/M PLUS
+	url = https://github.com/coz-m/MPLUS_FONTS
+[submodule "Sans-Serif/Stick"]
+	path = Sans-Serif/Stick
+	url = https://github.com/fontworks-fonts/Stick
+[submodule "Sans-Serif/DotGothic16"]
+	path = Sans-Serif/DotGothic16
+	url = https://github.com/fontworks-fonts/DotGothic16
+[submodule "Sans-Serif/Train"]
+	path = Sans-Serif/Train
+	url = https://github.com/fontworks-fonts/Train
+[submodule "Sans-Serif/Reggae"]
+	path = Sans-Serif/Reggae
+	url = https://github.com/fontworks-fonts/Reggae
+[submodule "Sans-Serif/RocknRoll"]
+	path = Sans-Serif/RocknRoll
+	url = https://github.com/fontworks-fonts/RocknRoll
+[submodule "Sans-Serif/G8321_FONTS"]
+	path = Sans-Serif/G8321
+	url = https://github.com/coz-m/G8321_FONTS
+[submodule "Sans-Serif/naikaifont"]
+	path = Sans-Serif/內海字體
+	url = https://github.com/max32002/naikaifont
+[submodule "Sans-Serif/public-sans"]
+	path = Sans-Serif/Public Sans
+	url = https://github.com/uswds/public-sans
+[submodule "Sans-Serif/taipei-sans-tc"]
+	path = Sans-Serif/台北黑體
+	url = https://github.com/VdustR/taipei-sans-tc
+[submodule "Sans-Serif/source-han-sans"]
+	path = Sans-Serif/思源黑體
+	url = https://github.com/adobe-fonts/source-han-sans
+[submodule "Sans-Serif/chiron-sans-hk"]
+	path = Sans-Serif/昭源黑體
+	url = https://github.com/chiron-fonts/chiron-sans-hk
+[submodule "Serif/genyo-font"]
+	path = Serif/源樣明體
+	url = https://github.com/ButTaiwan/genyo-font
+[submodule "Serif/I.Ming"]
+	path = Serif/一點明體
+	url = https://github.com/ichitenfont/I.Ming
+[submodule "Serif/genwan-font"]
+	path = Serif/源雲明體
+	url = https://github.com/ButTaiwan/genwan-font/
+[submodule "Serif/genryu-font"]
+	path = Serif/源流明體
+	url = https://github.com/ButTaiwan/genryu-font
+[submodule "Serif/ShipporiMincho"]
+	path = Serif/ShipporiMincho
+	url = https://github.com/fontdasu/ShipporiMincho
+[submodule "Serif/source-han-serif"]
+	path = Serif/思源宋體
+	url = https://github.com/adobe-fonts/source-han-serif
+[submodule "Handwriting/bakudaifont"]
+	path = Handwriting/莫大毛筆字體
+	url = https://github.com/max32002/bakudaifont
+[submodule "Handwriting/Klee"]
+	path = Handwriting/Klee
+	url = https://github.com/fontworks-fonts/Klee
+[submodule "Monospaced/iA-Fonts"]
+	path = Monospaced/iA-Fonts
+	url = https://github.com/iaolo/iA-Fonts
+[submodule "Sans-Serif/glow-sans"]
+	path = Sans-Serif/未來熒黑
+	url = https://github.com/welai/glow-sans
